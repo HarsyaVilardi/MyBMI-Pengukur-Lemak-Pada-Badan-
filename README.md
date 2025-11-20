@@ -1,5 +1,5 @@
-# MyBMI-Pengukur-Lemak-Pada-Badan-
+# MyBMI
 
-Ujian Tengah Semester
-Nama: Harsya Vil'ardi
-NPM: 23552011037
+MyBMI merupakan aplikasi untuk mengukur tingkat kesehatan kita dari perhitungan berat badan dan tinggi kita.
+
+# Ujian Tengah Semester Nama: Harsya Vil'ardi NPM: 23552011037
