@@ -6,4 +6,4 @@
 MyBMI merupakan aplikasi untuk mengukur tingkat kesehatan kita dari perhitungan berat badan dan tinggi kita.
 
 
-![Uploading WhatsApp Image 2025-11-20 at 18.03.53.jpeg…]()
+
